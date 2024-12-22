@@ -1,0 +1,37 @@
+Company,Station Name,Code,Departure Station,Arrival Station,Departure Date,Arrival Date,Price,Class
+SNCFT,Tunis,0001,Tunis,Sousse,2024-12-21,2024-12-21,7.6,2nd Class
+SNCFT,Tunis,0002,Tunis,Sousse,2024-12-21,2024-12-21,10.3,1st Class
+SNCFT,Tunis,0003,Tunis,Sousse,2024-12-21,2024-12-21,10.9,Classe Confort
+SNCFT,Tunis,0004,Tunis,Sfax,2024-12-21,2024-12-21,12.4,2nd Class
+SNCFT,Tunis,0005,Tunis,Sfax,2024-12-21,2024-12-21,16.8,1st Class
+SNCFT,Tunis,0006,Tunis,Sfax,2024-12-21,2024-12-21,17.9,Classe Confort
+SNCFT,Tunis,0007,Tunis,Gabès,2024-12-21,2024-12-21,18.2,2nd Class
+SNCFT,Tunis,0008,Tunis,Gabès,2024-12-21,2024-12-21,24.6,1st Class
+SNCFT,Tunis,0009,Tunis,Gabès,2024-12-21,2024-12-21,26.2,Classe Confort
+SNCFT,B.Bou Rekba,1001,Tunis,Sousse,2024-12-21,2024-12-21,7.6,2nd Class
+SNCFT,B.Bou Rekba,1002,Tunis,Sousse,2024-12-21,2024-12-21,10.3,1st Class
+SNCFT,B.Bou Rekba,1003,Tunis,Sousse,2024-12-21,2024-12-21,10.9,Classe Confort
+SNCFT,Sousse (Kalaâ Séghira),2001,Tunis,Sfax,2024-12-21,2024-12-21,12.4,2nd Class
+SNCFT,Sousse (Kalaâ Séghira),2002,Tunis,Sfax,2024-12-21,2024-12-21,16.8,1st Class
+SNCFT,Sousse (Kalaâ Séghira),2003,Tunis,Sfax,2024-12-21,2024-12-21,17.9,Classe Confort
+SNCFT,Sousse (Ville),2004,Tunis,Gabès,2024-12-21,2024-12-21,18.2,2nd Class
+SNCFT,Sousse (Ville),2005,Tunis,Gabès,2024-12-21,2024-12-21,24.6,1st Class
+SNCFT,Sousse (Ville),2006,Tunis,Gabès,2024-12-21,2024-12-21,26.2,Classe Confort
+SNCFT,El Jem,3001,Tunis,Sousse,2024-12-21,2024-12-21,7.6,2nd Class
+SNCFT,El Jem,3002,Tunis,Sousse,2024-12-21,2024-12-21,10.3,1st Class
+SNCFT,El Jem,3003,Tunis,Sousse,2024-12-21,2024-12-21,10.9,Classe Confort
+SNCFT,Sfax,4001,Tunis,Sfax,2024-12-21,2024-12-21,12.4,2nd Class
+SNCFT,Sfax,4002,Tunis,Sfax,2024-12-21,2024-12-21,16.8,1st Class
+SNCFT,Sfax,4003,Tunis,Sfax,2024-12-21,2024-12-21,17.9,Classe Confort
+SNCFT,Gafsa,5001,Tunis,Gabès,2024-12-21,2024-12-21,18.2,2nd Class
+SNCFT,Gafsa,5002,Tunis,Gabès,2024-12-21,2024-12-21,24.6,1st Class
+SNCFT,Gafsa,5003,Tunis,Gabès,2024-12-21,2024-12-21,26.2,Classe Confort
+SNCFT,Metlaoui,6001,Tunis,Sfax,2024-12-21,2024-12-21,12.4,2nd Class
+SNCFT,Metlaoui,6002,Tunis,Sfax,2024-12-21,2024-12-21,16.8,1st Class
+SNCFT,Metlaoui,6003,Tunis,Sfax,2024-12-21,2024-12-21,17.9,Classe Confort
+SNCFT,Tozeur,7001,Tunis,Sfax,2024-12-21,2024-12-21,12.4,2nd Class
+SNCFT,Tozeur,7002,Tunis,Sfax,2024-12-21,2024-12-21,16.8,1st Class
+SNCFT,Tozeur,7003,Tunis,Sfax,2024-12-21,2024-12-21,17.9,Classe Confort
+SNCFT,Gabès,8001,Tunis,Gabès,2024-12-21,2024-12-21,18.2,2nd Class
+SNCFT,Gabès,8002,Tunis,Gabès,2024-12-21,2024-12-21,24.6,1st Class
+SNCFT,Gabès,8003,Tunis,Gabès,2024-12-21,2024-12-21,26.2,Classe Confort

@@ -1,0 +1,47 @@
+Route,Departure Date,Arrival Date,Price (DT)
+Tunis (Bab Saadoun) – Bizerte,2024-12-22,2024-12-22,6.500
+Tunis (Bab Saadoun) – Tabarka,2024-12-22,2024-12-22,15
+Tunis (Bab Saadoun) – Le Kef,2024-12-22,2024-12-22,15
+Tunis (Bab Alioua) – Nabeul,2024-12-22,2024-12-22,4.700
+Tunis (Bab Alioua) – Korba,2024-12-22,2024-12-22,6.800
+Tunis (Bab Alioua) – Kélibia,2024-12-22,2024-12-22,8.800
+Tunis (Bab Alioua) – Hammamet Nord,2024-12-22,2024-12-22,6.800
+Tunis (Bab Alioua) – Yasmine Hammamet Sud (Barakat Sahel),2024-12-22,2024-12-22,4.750
+Aéroport Tunis – Yasmine Hammamet,2024-12-22,2024-12-22,35
+Tunis (Bab Alioua) – Zaghouan,2024-12-22,2024-12-22,5.350
+Tunis (Moncef Bey) – Sousse,2024-12-22,2024-12-22,13.500
+Tunis (Moncef Bey) – Monastir,2024-12-22,2024-12-22,14.850
+Tunis (Moncef Bey) – Kairouan,2024-12-22,2024-12-22,14.600
+Tunis (Moncef Bey) – Mahdia,2024-12-22,2024-12-22,17.650
+Tunis – Tabarka,2024-12-22,2024-12-22,12.500
+Tunis Marine – La Marsa,2024-12-22,2024-12-22,1.700
+Hammamet – Tunis,2024-12-22,2024-12-22,6.800
+Yasmine Hammamet Sud (Barakat Sahel) – Tunis,2024-12-22,2024-12-22,5.500
+Yasmine Hammamet Sud (Barakat Sahel) – Sousse (centre),2024-12-22,2024-12-22,8.600
+Yasmine Hammamet Sud (Barakat Sahel) – Kairouan,2024-12-22,2024-12-22,11
+Yasmine Hammamet Sud (Barakat Sahel) – Nabeul,2024-12-22,2024-12-22,2.000
+Médina Hammamet – Yasmine Hammamet Sud (Barakat Sahel),2024-12-22,2024-12-22,0.700
+Yasmine Hammamet (station El Lemdina) – Nabeul,2024-12-22,2024-12-22,1.700
+Yasmine Hammamet (station El Lemdina) – Hammamet Centre,2024-12-22,2024-12-22,0.800
+Yasmine Hammamet Sud (Barakat Sahel) – Hammamet Nord,2024-12-22,2024-12-22,0.800
+Hammamet – Djerba (changement à Sousse et Gabès, 8h),2024-12-22,2024-12-22,40
+Nabeul – Tunis,2024-12-22,2024-12-22,6.600
+Nabeul – Tunis (Bus ligne 102),2024-12-22,2024-12-22,5.300
+Nabeul – Kélibia,2024-12-22,2024-12-22,5.350
+Nabeul – Sousse,2024-12-22,2024-12-22,8.300
+Sousse – Gabès,2024-12-22,2024-12-22,22.300
+Sousse – Tunis,2024-12-22,2024-12-22,13.500
+Sousse – Le Kef,2024-12-22,2024-12-22,19.000
+Sousse (centre) – Yasmine Hammamet Sud (Barakat Sahel),2024-12-22,2024-12-22,7.500
+Sousse – El Jem,2024-12-22,2024-12-22,8.600
+Sousse – Kairouan,2024-12-22,2024-12-22,6.200
+Kairouan – El Jem,2024-12-22,2024-12-22,Pas de liaison directe
+Monastir – Kairouan,2024-12-22,2024-12-22,8.000
+Sousse – Sfax,2024-12-22,2024-12-22,12.400
+Mahdia – El Jem,2024-12-22,2024-12-22,8.000
+Sfax – Tunis,2024-12-22,2024-12-22,22.750
+Gabès – Hammamet en louage privatisé,2024-12-22,2024-12-22,25 / pers
+Gabès – Hammamet en louage privatisé (complet),2024-12-22,2024-12-22,200
+Le Kef – Kasserine,2024-12-22,2024-12-22,11.500
+Jendouba – Bousalem,2024-12-22,2024-12-22,1.800
+Bousalem – Béja,2024-12-22,2024-12-22,2.400
